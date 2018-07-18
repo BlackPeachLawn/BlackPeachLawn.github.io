@@ -1,11 +1,13 @@
 ---
-title: Welcome to Jekyll!
+title: 欢迎来到Yi的世界
 icon: fa-check
 order: 5
 ---
-
-This Jekyll theme lets you build as many of these sections as you want. They live in the _sections folder in your project's root directory. For some examples, see the [GitHub repository](https://github.com/chrisbobbe/jekyll-theme-prologue). Just be sure to add some [frontmatter](https://jekyllrb.com/docs/frontmatter/) to each section.
-
-All sections have titles, which are listed in the site's navigation menu. At the top of each section, the section's title will render by default (e.g., Welcome to Jekyll!). If you want it to show something different (see Intro), add **auto-header: none** to your frontmatter, and add your text in a <h2> tag inside a <header> tag outside the frontmatter. You'll want to give each section an **order** parameter, also in the frontmatter, or it won't know where to put itself and will hide. Icons are from [Font Awesome](http://fontawesome.io/icons/).
-
-You may notice that this section is written in Markdown -- either Markdown or html works!
+   欢迎来到我的世界。冬天来的，在火炉旁找个位置坐下。夏天来的，舀水缸里的水淋湿自己。
+我只是想用自己孩子的笔体写下“相信未来”，不，相信未来是固然的，我是想写下自己
+想写的东西，更多的应该是包含自己的学习的sense和一些其他的。 
+我们，一辈子平均有75年（我猜的），一年有四季（当然有的地方没有），
+一季有三个月，一月有大概30天，一天有24小时，一小时有60分，一分有60秒。
+（常识常识，说这废干哈。）咳咳，多谢你花了这么多秒，谢谢。
+突然的客气（哪来的？），不，这是多时间的厚积薄发，而我只希望你看到我想让你看到的。
+感谢我让我遇见你。
